@@ -1,0 +1,15 @@
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\bin\Debug\net6.0\hackerrank_staircase.exe
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\bin\Debug\net6.0\hackerrank_staircase.deps.json
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\bin\Debug\net6.0\hackerrank_staircase.runtimeconfig.json
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\bin\Debug\net6.0\hackerrank_staircase.dll
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\bin\Debug\net6.0\hackerrank_staircase.pdb
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\hackerrank_staircase.csproj.AssemblyReference.cache
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\hackerrank_staircase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\hackerrank_staircase.AssemblyInfoInputs.cache
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\hackerrank_staircase.AssemblyInfo.cs
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\hackerrank_staircase.csproj.CoreCompileInputs.cache
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\hackerrank_staircase.dll
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\refint\hackerrank_staircase.dll
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\hackerrank_staircase.pdb
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\hackerrank_staircase.genruntimeconfig.cache
+C:\Users\EBRU\Documents\Vs Code\C#\hackerrank_staircase\obj\Debug\net6.0\ref\hackerrank_staircase.dll
